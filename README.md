@@ -24,4 +24,5 @@
 （目前淘买一个抖音卡片跳转微信30块一个月。每个月能卖出1千多。）
 
 添加二维码，购买信息
-![Snipaste_2023-12-19_17-39-29](https://github.com/wboyc/douyin_to_wx/assets/10396940/2e028866-ebc8-4c3f-a94d-099094bdb117)
+
+![Snipaste_2023-12-19_17-48-27](https://github.com/wboyc/douyin_to_wx/assets/10396940/30ce0f48-d402-4243-834a-281d7fe1f007)
